@@ -1,0 +1,114 @@
+Sobre a Barbearia Alura
+
+Localizada no coração da cidade a Barbearia Alura traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.
+
+Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
+
+Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+
+
+// Capitulo 2 Separando o conteudo e informações 
+
+Nesta aula, aprendemos:
+
+A definir a estrutura básica do HTML
+Com a tag DOCTYPE, definimos qual versão do HTML estamos utilizando
+A tag <html>, que marca o conteúdo a ser renderizado no navegador
+Dentro desta tag, podemos definir a linguagem da página, através da propriedade lang
+Como passar as informações do encoding da nossa página para o navegador, através da tag <meta> e da propriedade charset
+Como definir o título de uma página, através da tag <title>
+Como separar as informações que estão sendo passadas para o navegador, utilizando a tag <head>
+Como separar o conteúdo da página, utilizando a tag <body>
+
+// Capitulo 3 - Trabalhando com CSS
+
+dicionario hexadecimais
+
+#000000 - black
+#FFFFFF - white
+#FF0000 - red
+#00FF00 - green
+#0000FF - blue
+#FFFF00 - yellow
+#00FFFF - cyan
+#FF00FF - magenta
+
+dicionario de cores em RGB
+
+rgb(0, 0, 0) - black
+rgb(255, 255, 255) - white
+rgb(255, 0, 0) - red
+rgb(0, 255, 0) - green
+rgb(0, 0, 255) - blue
+
+dicionario de cores em RGBA
+
+rgba(0, 0, 0, 1) - black
+rgba(255, 255, 255, 1) - white
+rgba(255, 0, 0, 1) - red
+rgba(0, 255, 0, 1) - green
+rgba(0, 0, 255, 1) - blue
+
+dicionario de cores em HSL
+
+hsl(0, 0%, 0%) - black
+hsl(0, 0%, 100%) - white
+hsl(0, 100%, 50%) - red
+hsl(120, 100%, 50%) - green
+hsl(240, 100%, 50%) - blue
+
+dicionario de cores em alfabeto
+
+red - red
+green - green
+blue - blue
+yellow - yellow
+cyan - cyan
+magenta - magenta
+
+Nesta aula, aprendemos:
+
+A mexer na apresentação dos textos
+No alinhamento deles (text-align)
+No tamanho da fonte (font-size)
+Na cor de fundo (background)
+Na cor do texto (color)
+CSS inline
+Na linha onde temos a nossa tag, adicionamos a propriedade do CSS
+A tag <style>
+Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML
+A apresentação do CSS com um arquivo externo
+Como funciona o estilo em cascata do CSS
+Como importar um arquivo externo de CSS dentro da nossa página HTML
+Como representar cores no CSS
+Através do nome da cor
+Através do seu hexadecimal
+Através do seu RGB
+
+
+// Capitulo 4 - Trabalhando com imagens
+
+Nesta aula, aprendemos:
+
+Como reestruturar o nosso código, removendo os CSS inline e colocando-os no arquivo CSS externo
+Como criar um identificador para marcar especificamente um elemento
+Como fazer referência a esse identificador no CSS
+Como adicionar uma imagem à nossa página
+Como ajustar a altura do elemento, através da propriedade height
+Como ajustar a largura do elemento, através da propriedade width
+Como ajustar o espaçamento interno do elemento, através da propriedade padding
+Como ajustar o espaçamento externo do elemento, através da propriedade margin
+Como se comporta um time de front-end hoje em dia
+
+
+// Capitulo 5 - Listas e divisões de conteudo
+
+Nesta aula, aprendemos:
+
+A trabalhar com listas não-ordenadas e listas ordenadas
+Para cada um dos itens da lista, utilizamos a tag <li>
+O conceito das classes no CSS
+Elas servem para marcar itens, que são repetíveis
+Como referenciar uma classe no CSS
+Divisões de conteúdo, utilizando a tag <div>
+Os comportamentos inline e block
