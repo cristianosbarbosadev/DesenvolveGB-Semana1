@@ -33,7 +33,7 @@ Desenvolver uma página de serviços (Barbearia Alura):
 
 ### Links
 
-- Vercel: [Verifique a página publicada](#)
+- Vercel: [Verifique a página publicada](https://desenvolve-gb.vercel.app/)
 
 ## Meu Processo
 
