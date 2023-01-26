@@ -46,7 +46,7 @@ Desenvolver uma página de serviços (Barbearia Alura):
 
 Temos uma página completa, uma página com os nossos itens de produto, nossa imagem como logo, nosso menu de navegação e nosso rodapé, finalizando esse conteúdo. Eu espero que você tenha aprendido um pouco mais sobre HTML e CSS e como aplicar isso no seu dia-a-dia.
 
-## Autor @Cristiano Barbosa 
+## Autor [@CristianoBarbosa.Dev](https://www.linkedin.com/in/cristianosantosbarbosa/)
 
 ## Agradecimentos
 
