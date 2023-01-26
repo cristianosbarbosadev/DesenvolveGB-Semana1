@@ -26,7 +26,7 @@ Desenvolver uma página de serviços (Barbearia Alura):
 
 ### Captura de Tela
 
-![](./captura_barbearia.jpg)
+![](https://github.com/cristianosbarbosadev/DesenvolveGB-Semana1/blob/473aa6434d868b02cc3ed36039b207e4fbe4ffb7/captura_barbearia.png)
 
 [Google Drive](https://drive.google.com/file/d/1aCWiJtwp93kT8X65MRffxP_TSkGICueo/view?usp=share_link)
 
