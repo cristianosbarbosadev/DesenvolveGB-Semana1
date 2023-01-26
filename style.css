@@ -1,10 +1,51 @@
+header{
+  background: #BBBBBB;
+  padding: 20px 0;
+}
+
+.caixa {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
+
+nav {
+  position: absolute;
+  top: 110px;
+  right: 0;
+}
+
+.menu{
+	display: inline;
+}
+
+
+nav li {
+  display: inline;
+  padding: 0 0 0 15px;
+}
+
+nav a {
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #c78c19;
+  text-decoration: underline;
+}
+
+
 #banner {
 	width:100%;
 }
 
 .principal{
 	background: #CCCCCC;
-	padding: 30px;
+	padding: 50px;
 }
 
 .titulo-principal {
@@ -12,7 +53,8 @@
 }
 
 .titulo-centralizado {
-	text-align: center
+	text-align: center;
+	font-size: 28px;
 }
 
 p {
@@ -32,6 +74,9 @@ em strong {
 }
 
 .beneficios {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	background: #FFFFFF;
 	padding: 20px;
 }
@@ -44,5 +89,19 @@ ul {
 }
 
 .imagembeneficios {
-	width: 50%;
+	width: 30%;
+	border-radius: 50px;
 }
+
+footer {
+  text-align: center;
+  background: url(./bg.jpg);
+  padding: 40px 0;
+}
+
+.copyright{
+  color: #FFFFFF;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
+
